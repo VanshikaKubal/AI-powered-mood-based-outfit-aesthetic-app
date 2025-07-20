@@ -28,4 +28,5 @@ I wanted to create something that **feels like magic but is backed by code** —
 Demo (Coming Soon!)
 Stay tuned for screenshots and a live preview 💻✨
 
-👩‍💻 Created by [Vanshika Kubal](https://github.com/yourusername)  
+👩‍💻 Created by [Vanshika Kubal](https://github.com/VanshikaKubal)
+
