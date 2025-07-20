@@ -1,4 +1,4 @@
- Mood Stylist AI ✨
+ Mood Stylist AI 
 Welcome to **Mood Stylist AI** — a playful and intelligent aesthetic generator that translates your mood into visuals, vibes, and fashion-forward ideas.
 
 Whether you're feeling *romantic storm, glam rebel, sleepy fairycore*, or anything in between — this app gets your energy and gives you back a look.
